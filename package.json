@@ -2,7 +2,7 @@
   "name": "faket",
   "version": "1.0.0",
   "description": "generate Ethioipic fake data in Node.js",
-  "main": "index.js",
+  "main": "faket.js",
   "scripts": {
     "test": "mocha test/**/*.js"
   },
