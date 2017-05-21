@@ -1,7 +1,9 @@
-const names = require('./dataset/names')
+const name = require('./lib/name');
+const address = require('./lib/address');
+const phoneNumber = require('./lib/phonenumber');
 
-function name(){
-    return names[Math.floor((Math.random()*names.length))]
-}
-
-module.exports.name = name;
+module.exports = {
+    name: name,
+    phoneNumber: phoneNumber,
+    address: address
+};
