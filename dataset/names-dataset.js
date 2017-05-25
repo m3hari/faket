@@ -42,5 +42,12 @@ module["exports"] = {
         'ፍሬ',
         'ዋናሴት',
         'አስረስ'
+    ],
+    "femalesPrefix": [
+        "ወሮ",
+        "ወ/ሪት"
+    ],
+    "malesPrefix": [
+        "አቶ"
     ]
 }
