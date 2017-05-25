@@ -1,9 +1,12 @@
 # Faket 
 ![Under Development](https://img.shields.io/badge/under-development-orange.svg)
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000)
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000)](LICENSE.md)
+[![Build Status](https://travis-ci.org/m3hari/faket.svg?branch=master)](https://travis-ci.org/m3hari/faket)
 
 A library for generating Ethopic fake data such as names, addresses, and phone numbers.
-Faket is  inspired by ![fzaninotto/Faker](https://img.shields.io/badge/PHP-fzaninotto%2FFaker-blue.svg) and by ![Faker](https://img.shields.io/badge/Ruby-stympy%2Ffaker-red.svg).
+Faket is  highly inspired by   
+[![fzaninotto/Faker](https://img.shields.io/badge/PHP-fzaninotto%2FFaker-blue.svg)](https://github.com/fzaninotto/Faker) *&* 
+[![Faker](https://img.shields.io/badge/Marak-fakerjs-green.svg)](https://github.com/Marak/faker.js)
 
 
 ## Usage
@@ -29,6 +32,3 @@ faket.name.fullName()           // ሰብለ መኮነን ንጉስ
 - [ ] build and deploy micro-service
 - [ ] playground github page
 - [ ] . . .
-
-## License
-This project is licensed under the MIT License - [LICENSE.md](LICENSE.md)
